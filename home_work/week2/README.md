@@ -20,12 +20,12 @@
 
 信息校验没有问题之后，将会利用用户登录时设置在session中的userId，进行数据库查询，然后更新相应的字段。
 
-![image-20230813113406081](C:\Users\isxia\AppData\Roaming\Typora\typora-user-images\image-20230813113406081.png)
+![image-20230813113406081](https://github.com/qxx-yimi/go_learn/blob/main/images_md/image-20230813113406081.png)
 
 4.查看个人信息
 
-![image-20230813113433487](C:\Users\isxia\AppData\Roaming\Typora\typora-user-images\image-20230813113433487.png)
+![image-20230813113433487](https://github.com/qxx-yimi/go_learn/blob/main/images_md/image-20230813113433487.png)
 
 在数据库中也可以查看
 
-![image-20230813113529464](C:\Users\isxia\AppData\Roaming\Typora\typora-user-images\image-20230813113529464.png)
+![image-20230813113529464](https://github.com/qxx-yimi/go_learn/blob/main/images_md/image-20230813113529464.png)
