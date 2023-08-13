@@ -12,7 +12,7 @@
 
 只有登录账号之后才能修改信息
 
-![image-20230813113149888](C:\Users\isxia\AppData\Roaming\Typora\typora-user-images\image-20230813113149888.png)
+![image-20230813113149888](https://github.com/qxx-yimi/go_learn/blob/main/images_md/image-20230813113149888.png)
 
 3.编辑个人信息
 
