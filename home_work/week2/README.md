@@ -6,7 +6,7 @@
 
 注册之后，昵称默认为创建的时间戳，生日和个人简介是空白
 
-![image-20230813112428475](https://github.com/qxx-yimi/go_learn/blob/main/images_md/image-20230813112317247.png)
+![image-20230813112428475](https://github.com/qxx-yimi/go_learn/blob/main/images_md/image-20230813112428475.png)
 
 2.登录账号
 
